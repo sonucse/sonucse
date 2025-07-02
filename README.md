@@ -1,10 +1,10 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> नमस्ते (Namaste) 🙏🏻, I'm Sonu Madheshiya !  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p><em><strong>Test Automation Engineer | Web & Mobile | Passionate about Quality, Coverage, and Continuous Testing</strong></em></p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">  
-
-<img src="https://raw.githubusercontent.com/sonucse/sonucse/main/github-snake.svg" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sonucse/sonucse/main/github-snake.svg" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" align="right" />
+</p>
 
 ---
 
