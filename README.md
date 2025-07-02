@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> नमस्ते (Namaste) 🙏🏻, I'm Sonu Madheshiya !  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> नमस्ते (Namaste) 🙏🏻, I'm Sonu Madheshiya !  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p><em><strong>Test Automation Engineer | Web & Mobile | Passionate about Quality, Coverage, and Continuous Testing</strong></em></p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">  
@@ -47,3 +47,10 @@ const sonuMadheshiya = {
   mindset: "Test early, test smart, test fast ⚡",
   funFact: "I enjoy breaking things… just to make sure users never have to."
 };
+```
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you !</b> :)</em>
+
+---
